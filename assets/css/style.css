@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background: #777;
+    color: #777;
+    font-size: 20px;
+}
+/* div surrounding all content */
+div {
+margin: 0 12em;
+}
+
+/* top nav for header and nav */
+.topNav {   
+    padding: 2em 0 2em;
+    background: #fff;
+    margin-bottom: 1ch;
+}
+
+section {
+    float: left;
+    background: #fff;
+    margin: 1ch 1ch 2ch 0;
+    width: 60%;
+    padding-bottom: 1ch;
+}
+
+article {
+    background: #777;
+    color: #fff;
+    margin: 1ch 1ch 0 1ch;
+    padding-bottom: 1ch;
+}
+
+h1 {
+    background: #fff;
+    color: #777;
+    margin: 0 1ch 1ch 1ch;
+    padding: 1em;
+}
+
+p {
+    background: #fff;
+    color: #777;
+    margin: 0 1ch 0 1ch;
+    padding: 1em;
+}
+
+aside {
+    background: #fff;
+    width: 10%;
+    margin: 1ch 0 1ch;
+    float: left;
+}
+
+footer {
+    clear: left;
+    background: #fff;
+}
